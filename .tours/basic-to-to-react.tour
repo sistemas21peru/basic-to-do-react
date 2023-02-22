@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "BASIC-TO-TO-REACT",
+  "steps": [
+    {
+      "file": "src/App/index.js",
+      "description": "We have the ability to render by props or children. We have applied by children However the following:\n\n                // render={x => (\n                //             <TodoItem\n                //                 key={x.Description}\n                //                 description={x.Description}\n                //                 completed={x.Completed}\n                //                 onCompleteTodo={() => onCompleteTodo(x.Description)}\n                //                 onDeleteTodo={() => onDeleteTodo(x.Description)}/>\n                //     )\n                // }\n\ncode is by props and <TodoItem> already it's conditioning to use either.",
+      "line": 53
+    }
+  ],
+  "ref": "main"
+}

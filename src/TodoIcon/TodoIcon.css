@@ -1,0 +1,18 @@
+.Icon-cursor {
+    cursor: pointer;
+    height: 23px;
+    width: 25px;
+}
+
+.TodoCreateButton {
+    cursor: pointer;
+    position: absolute;
+    bottom: 350px;
+    right: 22px;
+    height: 50px;
+    width: 50px;
+}
+
+.TodoCreateButton--loading {
+    opacity: 25%;
+}
